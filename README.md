@@ -15,7 +15,7 @@ favicon.ico de la vista general, de la instalación, y parte administrativa
 Imagen del encabezado de la parte administrativa
 ```
 
-
+--------------------------------------------------------------------------------------------------------------------------------------
 # PrestaShop 1.6
 
 PrestaShop es una plataforma muy potente, y parte de su poder reside en el hecho de que es muy fácil construir sobre sus cimientos podiendo ampliar sus funcionalidades a través de módulos y códigos de sobrecarga.
