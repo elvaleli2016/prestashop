@@ -1,3 +1,21 @@
+# PRESTASHOP 
+## Cambios
+```sh
+Para poder acceder a los directorios que se trabajan en este tienda está basada en PHP y tienen una extensión .tpl (marcador de sintaxis para plantillas de Aria para temas).
+Importante después de la instalación es necesario cambiarle el nombre a la carpeta admin y eliminar la carpeta install
+```
+## Modificación Login
+```sh
+El directorio esta  /admin/themes/templates/controller/login/
+En esta esta su recpectivo index.tpl, el header que es el encabezado y como tiene estructurado los directorios ,css y js  en este tiene el cambio de body  para mostrar una imagen de fondo, el contenido se encuentra en content.tpl que en esta la quitamos el personaje de prestashop y su versión
+```
+## Otros cambio  
+```sh
+favicon.ico de la vista general, de la instalación, y parte administrativa
+Imagen del encabezado de la parte administrativa
+```
+
+
 # PrestaShop 1.6
 
 PrestaShop es una plataforma muy potente, y parte de su poder reside en el hecho de que es muy fácil construir sobre sus cimientos podiendo ampliar sus funcionalidades a través de módulos y códigos de sobrecarga.
